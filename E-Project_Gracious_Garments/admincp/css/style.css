@@ -1,0 +1,11 @@
+#lblDangKi:hover {
+    cursor: pointer;
+}
+
+#lblDangNhap:hover {
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: square;
+}
